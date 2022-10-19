@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Adelzm
-- 👀 I’m interested in building iOS Applications, and ML.
-- 🌱 I’m currently learning how to build iOS Applications.
-- 💞️ I’m looking to collaborate on building iOS Application with Swift and Xcode.
-- 📫 You can reach me on adel.mouhandes@gmail.com
+- Hi, I’m @Adelzm
+- I’m interested in building Apps with positive social impact.
 
 <!---
 Adelzm/Adelzm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
